@@ -1,0 +1,43 @@
+a:hover {
+  color: #1cce5c;
+}
+
+a:hover {
+  color: #1cce5c;
+}
+
+a:hover {
+  color: #1cce5c;
+}
+
+a {
+  color: #1cce5c;
+}
+
+a {
+  color: #1cce5c;
+}
+
+a {
+  color: #fed136;
+}
+
+a {
+  text-decoration: none;
+  background-color: transparent;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #1cce5c;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1cce5c;
+  border-color: #476a54;
+}
+
+.text-primary {
+  color: #1cce5c!important;
+}
+
