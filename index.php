@@ -50,9 +50,6 @@
                         <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" style="color: #1cce5c;" href="#page-top">INICIO</a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="#services">SERVICIOS</a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="#about">Habilidades</a></li>
-                        <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="#about">Habilidades</a></li>
-
-                        <li class="nav-item" role="presentation"></li>
                         <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="#contact">ContactO</a></li>
                     </ul>
                 </div>
